@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\STM32\Project_L1\Generator_L1\Src\main.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_L1\Generator_L1\Src\stm32l1xx_it.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>
